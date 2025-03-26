@@ -61,6 +61,7 @@ public class Visitor : Entity
         Console.WriteLine($"Дата заезда: {CheckInDate.ToShortDateString()}");
         Console.WriteLine($"Дата выезда: {CheckOutDate.ToShortDateString()}");
         Console.WriteLine($"Номер: {Room?.RoomNumber}, Корпус: {Room?.Building?.Name}");
+        Console.WriteLine($"Прикрасный вид у окна");
     }
 }
 
