@@ -1,0 +1,7 @@
+C:\Users\krikl\source\repos\ShepelevLaba1\ShepelevLaba1\obj\Debug\ShepelevLaba1.csproj.AssemblyReference.cache
+C:\Users\krikl\source\repos\ShepelevLaba1\ShepelevLaba1\obj\Debug\ShepelevLaba1.csproj.CoreCompileInputs.cache
+C:\Users\krikl\source\repos\ShepelevLaba1\ShepelevLaba1\bin\Debug\ShepelevLaba1.exe.config
+C:\Users\krikl\source\repos\ShepelevLaba1\ShepelevLaba1\bin\Debug\ShepelevLaba1.exe
+C:\Users\krikl\source\repos\ShepelevLaba1\ShepelevLaba1\bin\Debug\ShepelevLaba1.pdb
+C:\Users\krikl\source\repos\ShepelevLaba1\ShepelevLaba1\obj\Debug\ShepelevLaba1.exe
+C:\Users\krikl\source\repos\ShepelevLaba1\ShepelevLaba1\obj\Debug\ShepelevLaba1.pdb
